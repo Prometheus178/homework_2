@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DevFest SPb</string>
+    <string name="title">Как мы ускоряем Яндекс под Android</string>
+    <string name="android">Android</string>
+    <string name="speakerName">ARTUR VASILOV</string>
+    <string name="speakerBio">Android Developer with over five years of professional experience
+        and love of creating extremely high-quality apps with perfect UI / UX and optimizations.
+        Working at Yandex. GDG Leader.</string>
+</resources>
