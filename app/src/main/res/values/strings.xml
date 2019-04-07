@@ -6,4 +6,11 @@
     <string name="speakerBio">Android Developer with over five years of professional experience
         and love of creating extremely high-quality apps with perfect UI / UX and optimizations.
         Working at Yandex. GDG Leader.</string>
+    <string name="next_button">Next</string>
+
+    <string name="speakerName2">RUSLAN KALBAEV</string>
+    <string name="speakerBio2">Разрабатываю под Android чуть больше 4-х лет.
+        Исследую и решаю сложные технические задачи.
+        Закончил Томский государственный университет,
+        факультет информатики. Адепт кафедры программной инженерии.</string>
 </resources>
